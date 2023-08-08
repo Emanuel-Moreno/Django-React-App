@@ -15,7 +15,7 @@ python manage.py migrate => ejecutar tabla de datos del project
 
 python manage.py runserver => inicializar el servidor local
  
-pip install djangorestframework => instalar framework que te ayuda a crear API WEBS
+pip install djangorestframework => instalar framework 
 
 pip install django-cors-headers => indica quien puede conectarse a nuestra backends y comunicarse con otros backends
 
