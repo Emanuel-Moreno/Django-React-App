@@ -1,7 +1,7 @@
 # Django-React-App
 App Web Creada con React y Django
 
--Empezando el Backend
+- Empezando el Backend
 
 Crear entorno virtual
 
